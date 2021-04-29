@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://redvox.github.io/kappasector/posts/journal/</loc>
-<lastmod>2021-01-28T13:55:00+01:00</lastmod>
+<loc>https://redvox.github.io/kappasector/posts/episode1/</loc>
+<lastmod>2021-01-28T18:00:00+01:00</lastmod>
+</url>
+<url>
+<loc>https://redvox.github.io/kappasector/posts/episode2/</loc>
+<lastmod>2021-01-28T18:00:00+01:00</lastmod>
 </url>
 <url>
 <loc>https://redvox.github.io/kappasector/posts/wishes/</loc>
@@ -10,19 +14,19 @@
 </url>
 <url>
 <loc>https://redvox.github.io/kappasector/tabs/categories/</loc>
-<lastmod>2021-04-16T12:18:31+02:00</lastmod>
+<lastmod>2021-04-29T17:14:28+02:00</lastmod>
 </url>
 <url>
 <loc>https://redvox.github.io/kappasector/tabs/tags/</loc>
-<lastmod>2021-04-16T12:18:31+02:00</lastmod>
+<lastmod>2021-04-29T17:14:28+02:00</lastmod>
 </url>
 <url>
 <loc>https://redvox.github.io/kappasector/tabs/archives/</loc>
-<lastmod>2021-04-16T12:18:31+02:00</lastmod>
+<lastmod>2021-04-29T17:14:28+02:00</lastmod>
 </url>
 <url>
 <loc>https://redvox.github.io/kappasector/tabs/about/</loc>
-<lastmod>2021-04-16T12:18:31+02:00</lastmod>
+<lastmod>2021-04-29T17:14:28+02:00</lastmod>
 </url>
 <url>
 <loc>https://redvox.github.io/kappasector/about/</loc>
